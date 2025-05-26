@@ -1,4 +1,4 @@
-package GestaoEscolar;
+package DesafioGestaoEscolar;
 
 public class Funcionario extends Pessoa{
     private String funcao;

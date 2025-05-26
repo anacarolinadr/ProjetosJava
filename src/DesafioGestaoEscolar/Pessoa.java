@@ -1,4 +1,4 @@
-package GestaoEscolar;
+package DesafioGestaoEscolar;
 
 //Desenvolva um sistema de gestão escolar com uma classe abstrata Pessoa contendo os atributos nome e idade.
 //Crie as subclasses Aluno, Professor e Funcionario, cada uma implementando o método exibirInformacoes() de forma polimórfica.

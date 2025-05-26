@@ -1,4 +1,4 @@
-package GestaoEscolar;
+package DesafioGestaoEscolar;
 
 public class Professor extends Pessoa{
     private String materia;

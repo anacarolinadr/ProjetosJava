@@ -1,4 +1,4 @@
-package GestaoEscolar;
+package DesafioGestaoEscolar;
 
 public class Aluno extends Pessoa{
     private double media;

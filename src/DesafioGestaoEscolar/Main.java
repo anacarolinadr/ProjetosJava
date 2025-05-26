@@ -1,4 +1,4 @@
-package GestaoEscolar;
+package DesafioGestaoEscolar;
 
 public class Main {
     public static void main(String[] args) {
