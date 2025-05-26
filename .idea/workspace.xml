@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2ae7c17-40dd-4f77-8c81-c6625427c399" name="Changes" comment="Inicialização Projetos Java">
-      <change afterPath="$PROJECT_DIR$/src/DesafioCarro/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesafioCarro/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesafioCarro/Veiculo.java" afterDir="false" />
+    <list default="true" id="e2ae7c17-40dd-4f77-8c81-c6625427c399" name="Changes" comment="Correção Nome do Package">
+      <change afterPath="$PROJECT_DIR$/src/DesafioGestaoBiblioteca/Desafio.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesafioGestaoBiblioteca/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesafioGestaoBiblioteca/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,9 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2xS5LBAGSJYG7tyaS6lDn3nsvX3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -64,7 +66,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/passo/OneDrive/Documentos/Programação - Cursos e exercícios/ProjetosJava/ProjetosJava",
+    "last_opened_file_path": "C:/Users/passo/OneDrive/Documentos/Programação - Cursos e exercícios/ProjetosJava",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -78,7 +80,7 @@
       <recent name="C:\Users\passo\OneDrive\Documentos\Programação - Cursos e exercícios\ProjetosJava\ProjetosJava\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DesafioCarro.Main">
+  <component name="RunManager" selected="Application.DesafioGestaoBiblioteca.Main">
     <configuration name="DesafioCarro.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DesafioCarro.Main" />
       <module name="ProjetosJava" />
@@ -92,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafioLivro.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesafioLivro.Main" />
+    <configuration name="DesafioGestaoBiblioteca.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesafioGestaoBiblioteca.Main" />
       <module name="ProjetosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DesafioLivro.*" />
+          <option name="PATTERN" value="DesafioGestaoBiblioteca.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GestaoEscolar.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GestaoEscolar.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesafioGestaoEscolar.Main" />
       <module name="ProjetosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GestaoEscolar.*" />
+          <option name="PATTERN" value="DesafioGestaoEscolar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DesafioGestaoBiblioteca.Main" />
         <item itemvalue="Application.DesafioCarro.Main" />
         <item itemvalue="Application.GestaoEscolar.Main" />
         <item itemvalue="Application.DesafioSistemaRPG.Main" />
         <item itemvalue="Application.DesafioSistemaEntrega.Main" />
-        <item itemvalue="Application.DesafioLivro.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +177,7 @@
       <workItem from="1747953489202" duration="1700000" />
       <workItem from="1748023224224" duration="22000" />
       <workItem from="1748283980229" duration="89000" />
+      <workItem from="1748284145927" duration="1463000" />
     </task>
     <task id="LOCAL-00001" summary="Desafio Livro - Java POO Iniciante">
       <option name="closed" value="true" />
@@ -232,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747937160674</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Correção Nome do Package">
+      <option name="closed" value="true" />
+      <created>1748284265828</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1748284265828</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,6 +288,7 @@
     <MESSAGE value="Desafio Gestao Escolar - Java POO Iniciante" />
     <MESSAGE value="Desafio Gestao Escolar - Java POO Iniciante&#10;&#10;Signed-off-by: AnaCarolina &lt;passoscarol15@gmail.com&gt;" />
     <MESSAGE value="Inicialização Projetos Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inicialização Projetos Java" />
+    <MESSAGE value="Correção Nome do Package" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correção Nome do Package" />
   </component>
 </project>
