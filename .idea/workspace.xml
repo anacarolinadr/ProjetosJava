@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2ae7c17-40dd-4f77-8c81-c6625427c399" name="Changes" comment="Correção Nome do Package">
-      <change afterPath="$PROJECT_DIR$/src/DesafioGestaoBiblioteca/Desafio.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesafioGestaoBiblioteca/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesafioGestaoBiblioteca/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e2ae7c17-40dd-4f77-8c81-c6625427c399" name="Changes" comment="Correção Nome do Package" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +52,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.DesafioCarro.Main.executor": "Run",
+    "Application.DesafioGestaoBiblioteca.Main.executor": "Run",
     "Application.DesafioLivro.Main.executor": "Run",
     "Application.DesafioSistemaEntrega.Main.executor": "Run",
     "Application.DesafioSistemaRPG.Main.executor": "Run",
@@ -177,7 +173,7 @@
       <workItem from="1747953489202" duration="1700000" />
       <workItem from="1748023224224" duration="22000" />
       <workItem from="1748283980229" duration="89000" />
-      <workItem from="1748284145927" duration="1463000" />
+      <workItem from="1748284145927" duration="1808000" />
     </task>
     <task id="LOCAL-00001" summary="Desafio Livro - Java POO Iniciante">
       <option name="closed" value="true" />
