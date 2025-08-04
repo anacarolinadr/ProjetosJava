@@ -1,0 +1,45 @@
+package ProjetosUNIT.DesafiosAula01.Atividade10;
+
+public class ColecaoBiblioteca {
+    public Livro [] colecao;
+    public int contador;
+
+    public ColecaoBiblioteca(int tamanhoMaximo) {
+        colecao = new Livro[tamanhoMaximo];
+        contador = 0;
+    }
+
+    public boolean adicionarLivro(Livro livro) {
+        if (contador < colecao.length) {
+            colecao[contador] = livro;
+            contador++;
+            return true;
+        } else {
+            System.out.println("Coleção cheia.");
+            return false;
+        }
+    }
+
+    public boolean removerLivro(int isbn) {
+        for (int i = 0; i < contador; i++) {
+            if (colecao[i].getISBN() == isbn) {
+                for (int j = i; j < contador - 1; j++) {
+                    colecao[j] = colecao[j + 1];
+                }
+                colecao[contador - 1] = null;
+                contador--;
+                return true;
+            }
+        }
+        System.out.println("Livro com ISBN " + isbn + " não encontrado.");
+        return false;
+    }
+
+    public void listarLivros() {
+        System.out.println("Livros na coleção:");
+        for (int i = 0; i < contador; i++) {
+            Livro l = colecao[i];
+            System.out.println("- " + l.getTitulo() + " de " + l.getAutor() + " (ISBN: " + l.getISBN() + ")");
+        }
+    }
+}
