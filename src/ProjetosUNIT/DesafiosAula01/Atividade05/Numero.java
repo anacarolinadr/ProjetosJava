@@ -1,9 +1,9 @@
 package ProjetosUNIT.DesafiosAula01.Atividade05;
 
 public class Numero {
-    public double numero;
+    public int numero;
 
-    public Numero(double numero) {
+    public Numero(int numero) {
         this.numero = numero;
     }
 

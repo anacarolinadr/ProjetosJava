@@ -3,9 +3,17 @@
 
 package ProjetosUNIT.DesafiosAula01.Atividade05;
 
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        Numero numero = new Numero(5);
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Sucessor e Antecessor");
+        System.out.print("Digite o número: ");
+        int num = scanner.nextInt();
+
+        Numero numero = new Numero(num);
         numero.acharAntecessorSucessor();
     }
 }

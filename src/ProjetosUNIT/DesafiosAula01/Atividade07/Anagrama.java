@@ -21,7 +21,6 @@ public class Anagrama {
 
         Arrays.sort(letras1);
         Arrays.sort(letras2);
-
         return Arrays.equals(letras1, letras2);
     }
 }

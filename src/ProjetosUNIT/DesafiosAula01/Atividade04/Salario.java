@@ -9,6 +9,6 @@ public class Salario {
 
     public double calcularSalariosMinimos(){
         double salariosMinimos = salario / 1320;
-        return (int) salariosMinimos;
+        return salariosMinimos;
     }
 }

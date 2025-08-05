@@ -3,12 +3,21 @@
 
 package ProjetosUNIT.DesafiosAula01.Atividade08;
 
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        Euclides euclides = new Euclides(30, 18);
-        Euclides euclides2 = new Euclides(45, 30);
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Algoritmo de Euclides");
+        System.out.print("Digite o primeiro número: ");
+        int num1 = scanner.nextInt();
+
+        System.out.print("Digite o segundo número: ");
+        int num2 = scanner.nextInt();
+
+        Euclides euclides = new Euclides(num1, num2);
 
         System.out.println(euclides.acharMDC());
-        System.out.println(euclides2.acharMDC());
     }
 }

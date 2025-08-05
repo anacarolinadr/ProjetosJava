@@ -4,9 +4,17 @@
 
 package ProjetosUNIT.DesafiosAula01.Atividade04;
 
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        Salario salario = new Salario(5678.3);
-        System.out.println(salario.calcularSalariosMinimos());
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Contador de Salários Mínimos");
+        System.out.print("Digite o valor do seu salário: ");
+        double valorSalario = scanner.nextDouble();
+
+        Salario salario = new Salario(valorSalario);
+        System.out.println("Seu salário é " + String.format("%.2f", salario.calcularSalariosMinimos()) + " salários mínimos");
     }
 }

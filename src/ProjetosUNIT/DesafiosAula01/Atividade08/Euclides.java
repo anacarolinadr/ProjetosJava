@@ -3,7 +3,6 @@ package ProjetosUNIT.DesafiosAula01.Atividade08;
 public class Euclides {
     public double num1;
     public double num2;
-    public double mdc;
 
     public Euclides(double num1, double num2) {
         this.num1 = num1;

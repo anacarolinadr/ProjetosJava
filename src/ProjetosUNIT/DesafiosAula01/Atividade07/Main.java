@@ -6,12 +6,20 @@
 
 package ProjetosUNIT.DesafiosAula01.Atividade07;
 
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        Anagrama anagrama = new Anagrama("America", "Iracema");
-        Anagrama anagrama2 = new Anagrama("Amor", "Bola");
+        Scanner scanner = new Scanner(System.in);
 
-        System.out.println(anagrama.isAnagrama());
-        System.out.println(anagrama2.isAnagrama());
+        System.out.println("Jogo do Anagrama");
+        System.out.print("Digite a primeira palavra: ");
+        String palavra1 = scanner.nextLine();
+
+        System.out.print("Digite a segunda palavra: ");
+        String palavra2 = scanner.nextLine();
+
+        Anagrama anagrama = new Anagrama(palavra1, palavra2);
+        System.out.println("É anagrama: " + anagrama.isAnagrama());
     }
 }

@@ -7,9 +7,35 @@
 
 package ProjetosUNIT.DesafiosAula01.Atividade03;
 
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        ValorTotalIPI valorTotalIPI = new ValorTotalIPI(10,20, 5, 3,10);
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Sistema de IPI");
+        System.out.print("Digite o código do produto 1: ");
+        double codigo1 = scanner.nextDouble();
+
+        System.out.print("Digite o valor do produto 1: ");
+        double valor1 = scanner.nextDouble();
+
+        System.out.print("Digite a quantidade que será comprada do produto 1: ");
+        double qtd1 = scanner.nextDouble();
+
+        System.out.print("Digite o código do produto 2: ");
+        double codigo2 = scanner.nextDouble();
+
+        System.out.print("Digite o valor do produto 2: ");
+        double valor2 = scanner.nextDouble();
+
+        System.out.print("Digite a quantidade que será comprada do produto 2: ");
+        double qtd2 = scanner.nextDouble();
+
+        System.out.print("Qual o valor do IPI? Digite em porcentagem ");
+        double ipi = scanner.nextDouble();
+
+        ValorTotalIPI valorTotalIPI = new ValorTotalIPI(valor1, valor2, qtd1, qtd2, ipi);
         System.out.println(valorTotalIPI.calcularValorTotal());
     }
 }

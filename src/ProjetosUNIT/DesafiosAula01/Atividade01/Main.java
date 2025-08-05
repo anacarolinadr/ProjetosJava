@@ -4,9 +4,23 @@
 
 package ProjetosUNIT.DesafiosAula01.Atividade01;
 
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        ContagemDias contagemDias = new ContagemDias(19, 2, 16);
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Contador de Dias de Idade");
+        System.out.print("Digite a quantidade de anos na sua idade: ");
+        int anos = scanner.nextInt();
+
+        System.out.print("Digite a quantidade de meses na sua idade: ");
+        int meses = scanner.nextInt();
+
+        System.out.print("Digite a quantidade de dias na sua idade: ");
+        int dias = scanner.nextInt();
+
+        ContagemDias contagemDias = new ContagemDias(anos, meses, dias);
         contagemDias.mostrarContagem();
     }
 }

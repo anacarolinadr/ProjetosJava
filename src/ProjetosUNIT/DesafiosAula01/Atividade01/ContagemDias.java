@@ -13,6 +13,6 @@ public class ContagemDias {
 
     public void mostrarContagem() {
         int totalDias = (anos * 365) + (meses * 30) + dias;
-        System.out.println("Você tem aproximadamente " + totalDias + " dias de idade!");
+        System.out.println("Você tem aproximadamente " + totalDias + " dias!");
     }
 }

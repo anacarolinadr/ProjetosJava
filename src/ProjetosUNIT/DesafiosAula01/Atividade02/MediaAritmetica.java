@@ -6,9 +6,7 @@ public class MediaAritmetica {
         return (9 + 8 + 7) / 3;
     }
 
-    public double media654() {
-        return (6 + 5 + 4) / 3;
-    }
+    public double media654() { return (6 + 5 + 4) / 3; }
 
     public double mediaDasMedias() {
         return (media987() + media654()) / 2;
