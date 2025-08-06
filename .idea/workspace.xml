@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2ae7c17-40dd-4f77-8c81-c6625427c399" name="Changes" comment="Correção Nome do Package">
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula02/Atividade01/Conversao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula02/Atividade01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula02/Atividade02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula02/Atividade02/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula02/Atividade03/ConjuntoMaca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula02/Atividade03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula02/Atividade04/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula02/Atividade04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula02/Atividade04/SalaDeAula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula02/Atividade05/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula02/Atividade05/Operacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula02/Atividade05/TipoOperacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula02/Atividade06/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula02/Atividade06/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade01/ContagemDias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade01/ContagemDias.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade01/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade02/MediaAritmetica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade02/MediaAritmetica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade03/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade03/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade04/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade04/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade04/Salario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade04/Salario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade05/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade05/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade05/Numero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade05/Numero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade07/Anagrama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade07/Anagrama.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade07/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade07/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade08/Euclides.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade08/Euclides.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade08/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade08/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade10/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="e2ae7c17-40dd-4f77-8c81-c6625427c399" name="Changes" comment="Correção Nome do Package" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +81,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/passo/OneDrive/Documentos/Programação - Cursos e exercícios/ProjetosJava",
+    "last_opened_file_path": "C:/Users/passo/Downloads/ResolucaoExerciciosJava",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -238,7 +209,7 @@
       <workItem from="1754325444904" duration="4970000" />
       <workItem from="1754331620584" duration="221000" />
       <workItem from="1754347414550" duration="5169000" />
-      <workItem from="1754425441509" duration="1911000" />
+      <workItem from="1754425441509" duration="2285000" />
     </task>
     <task id="LOCAL-00001" summary="Desafio Livro - Java POO Iniciante">
       <option name="closed" value="true" />

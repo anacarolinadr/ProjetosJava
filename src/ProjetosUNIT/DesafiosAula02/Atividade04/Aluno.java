@@ -2,7 +2,7 @@ package ProjetosUNIT.DesafiosAula02.Atividade04;
 
 public class Aluno {
     public String nome;
-    public int [] notas = new int[2];
+    public int [] notas;
 
     public Aluno(String nome, int[] notas) {
         this.nome = nome;

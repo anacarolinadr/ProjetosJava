@@ -1,3 +1,9 @@
+//Escreva um programa em Java para ler a quantidade de pessoas, nome,
+//idade, altura e peso de cada pessoa. Em seguida calcule o IMC, mostre
+//o nome da pessoa e se a pessoa está abaixo do peso ideal, no peso
+//normal, com sobrepeso, obesidade grau I, obesidade grau II ou
+//obesidade grau III.
+
 package ProjetosUNIT.DesafiosAula02.Atividade06;
 
 public class Main {
