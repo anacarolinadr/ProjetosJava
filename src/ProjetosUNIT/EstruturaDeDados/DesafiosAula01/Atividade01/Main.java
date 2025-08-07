@@ -8,17 +8,20 @@
 
 package ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade01;
 
-import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
-        Mercadoria mercadoria1 = new Mercadoria("Pão", 5, 10, 1);
-        Mercadoria mercadoria2 = new Mercadoria("Torta", 50, 15, 2);
-        Mercadoria mercadoria3 = new Mercadoria("Bolo", 20, 5, 3);
+        Mercadoria mercadoria1 = new Mercadoria("Pão", 5, 1);
+        Mercadoria mercadoria2 = new Mercadoria("Torta", 50, 2);
+        Mercadoria mercadoria3 = new Mercadoria("Bolo", 20, 3);
 
         Mercadoria [] mercadorias = {mercadoria1, mercadoria2, mercadoria3};
-        Estoque estoque = new Estoque(mercadorias);
-
+        Estoque estoque = new Estoque(mercadorias, 5);
         estoque.gerarMedia();
+
+        Estoque estoque2 = new Estoque( 2);
+        estoque2.adicionarMercadoria(mercadoria1);
+        estoque2.adicionarMercadoria(mercadoria2);
+        estoque2.adicionarMercadoria(mercadoria3);
+        estoque2.gerarMedia();
     }
 }
