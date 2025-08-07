@@ -1,12 +1,28 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade10;
 
+import ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade01.Mercadoria;
+
 public class ColecaoBiblioteca {
     public Livro [] colecao;
     public int contador;
+    public int tamanhoMaximo;
 
     public ColecaoBiblioteca(int tamanhoMaximo) {
-        colecao = new Livro[tamanhoMaximo];
+        this.colecao = new Livro[tamanhoMaximo];
         contador = 0;
+        this.tamanhoMaximo = tamanhoMaximo;
+    }
+
+    public ColecaoBiblioteca(Livro[] colecao, int tamanhoMaximo) {
+        this.tamanhoMaximo = tamanhoMaximo;
+        this.colecao = new Livro[tamanhoMaximo];
+        if (colecao != null) {
+            int limite = Math.min(colecao.length, tamanhoMaximo);
+            for (int i = 0; i < limite; i++) {
+                this.colecao[i] = colecao[i];
+                this.contador++;
+            }
+        }
     }
 
     public boolean adicionarLivro(Livro livro) {
