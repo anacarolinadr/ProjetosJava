@@ -4,7 +4,77 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2ae7c17-40dd-4f77-8c81-c6625427c399" name="Changes" comment="Correção Nome do Package" />
+    <list default="true" id="e2ae7c17-40dd-4f77-8c81-c6625427c399" name="Changes" comment="Correção Nome do Package">
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/EstruturaDeDados/DesafiosAula01/Atividade01/Estoque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/EstruturaDeDados/DesafiosAula01/Atividade01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/EstruturaDeDados/DesafiosAula01/Atividade01/Mercadoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/EstruturaDeDados/DesafiosAula01/Atividade02/HorarioJogoXadrez.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/EstruturaDeDados/DesafiosAula01/Atividade02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/EstruturaDeDados/DesafiosAula01/Atividade03/Contador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/EstruturaDeDados/DesafiosAula01/Atividade03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula02/Atividade07/BethStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula02/Atividade07/Cargo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula02/Atividade07/Departamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula02/Atividade07/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula02/Atividade07/FuncionarioAssalariado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula02/Atividade07/FuncionarioComissionado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula02/Atividade07/FuncionarioHorista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula02/Atividade07/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula02/Atividade07/ReadMeAtividade.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade01/ContagemDias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade01/ContagemDias.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade02/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade02/MediaAritmetica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade02/MediaAritmetica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade03/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade03/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade03/ValorTotalIPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade03/ValorTotalIPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade04/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade04/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade04/Salario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade04/Salario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade05/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade05/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade05/Numero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade05/Numero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade06/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade06/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade06/Rosto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade06/Rosto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade07/Anagrama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade07/Anagrama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade07/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade07/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade08/Euclides.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade08/Euclides.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade08/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade08/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade09/FraseInvertida.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade09/FraseInvertida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade09/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade09/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade10/ColecaoBiblioteca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade10/ColecaoBiblioteca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade10/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade10/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade10/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade11/Banco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade11/Banco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade11/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade11/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade11/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade12/Inventario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade12/Inventario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade12/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade12/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade12/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade13/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade13/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade13/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade13/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade13/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade13/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade13/Restaurante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade13/Restaurante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade14/AnimalEstimacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade14/AnimalEstimacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade14/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade14/Cachorro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade14/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade14/Passaro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade14/Passaro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade15/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade15/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade15/MaquinaDeLavar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade15/MaquinaDeLavar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula01/Atividade15/ProdutoEletronico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula01/Atividade15/ProdutoEletronico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula02/Atividade01/Conversao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula02/Atividade01/Conversao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula02/Atividade01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula02/Atividade01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula02/Atividade02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula02/Atividade02/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula02/Atividade02/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula02/Atividade02/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula02/Atividade03/ConjuntoMaca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula02/Atividade03/ConjuntoMaca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula02/Atividade03/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula02/Atividade03/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula02/Atividade04/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula02/Atividade04/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula02/Atividade04/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula02/Atividade04/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula02/Atividade04/SalaDeAula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula02/Atividade04/SalaDeAula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula02/Atividade05/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula02/Atividade05/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula02/Atividade05/Operacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula02/Atividade05/Operacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula02/Atividade05/TipoOperacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula02/Atividade05/TipoOperacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula02/Atividade06/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula02/Atividade06/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/DesafiosAula02/Atividade06/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula02/Atividade06/Pessoa.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +147,9 @@
     "Application.ProjetosUNIT.DesafiosAula2807.Atividade03.Main.executor": "Run",
     "Application.ProjetosUNIT.DesafiosAula2807.Atividade05.Main.executor": "Run",
     "Application.ProjetosUNIT.DesafiosAula2807.Atividade06.Main.executor": "Run",
+    "Application.ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade01.Main.executor": "Run",
+    "Application.ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade02.Main.executor": "Run",
+    "Application.ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade03.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -95,14 +168,17 @@
       <recent name="C:\Users\passo\OneDrive\Documentos\Programação - Cursos e exercícios\ProjetosJava" />
       <recent name="C:\Users\passo\OneDrive\Documentos\Programação - Cursos e exercícios\ProjetosJava\ProjetosJava\.idea" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ProjetosUNIT.ProjetosDeProgramacao" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.ProjetosUNIT.DesafiosAula01.Atividade08.Main">
+  <component name="RunManager" selected="Application.ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade03.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.DesafiosAula01.Atividade07.Main" />
+      <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade07.Main" />
       <module name="ProjetosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProjetosUNIT.DesafiosAula01.Atividade07.*" />
+          <option name="PATTERN" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProjetosUNIT.DesafiosAula01.Atividade03.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.DesafiosAula01.Atividade03.Main" />
+    <configuration name="ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade01.Main" />
       <module name="ProjetosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProjetosUNIT.DesafiosAula01.Atividade03.*" />
+          <option name="PATTERN" value="ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +199,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProjetosUNIT.DesafiosAula01.Atividade04.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.DesafiosAula01.Atividade04.Main" />
+    <configuration name="ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade02.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade02.Main" />
       <module name="ProjetosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProjetosUNIT.DesafiosAula01.Atividade04.*" />
+          <option name="PATTERN" value="ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +212,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProjetosUNIT.DesafiosAula01.Atividade05.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.DesafiosAula01.Atividade05.Main" />
+    <configuration name="ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade03.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade03.Main" />
       <module name="ProjetosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProjetosUNIT.DesafiosAula01.Atividade05.*" />
+          <option name="PATTERN" value="ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +225,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProjetosUNIT.DesafiosAula01.Atividade08.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.DesafiosAula01.Atividade08.Main" />
+    <configuration name="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade08.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade08.Main" />
       <module name="ProjetosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProjetosUNIT.DesafiosAula01.Atividade08.*" />
+          <option name="PATTERN" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +240,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProjetosUNIT.DesafiosAula01.Atividade08.Main" />
+        <item itemvalue="Application.ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade03.Main" />
+        <item itemvalue="Application.ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade02.Main" />
+        <item itemvalue="Application.ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade01.Main" />
+        <item itemvalue="Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade08.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ProjetosUNIT.DesafiosAula01.Atividade05.Main" />
-        <item itemvalue="Application.ProjetosUNIT.DesafiosAula01.Atividade04.Main" />
-        <item itemvalue="Application.ProjetosUNIT.DesafiosAula01.Atividade03.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -210,6 +286,8 @@
       <workItem from="1754331620584" duration="221000" />
       <workItem from="1754347414550" duration="5169000" />
       <workItem from="1754425441509" duration="2285000" />
+      <workItem from="1754511429429" duration="332000" />
+      <workItem from="1754518347237" duration="7568000" />
     </task>
     <task id="LOCAL-00001" summary="Desafio Livro - Java POO Iniciante">
       <option name="closed" value="true" />
