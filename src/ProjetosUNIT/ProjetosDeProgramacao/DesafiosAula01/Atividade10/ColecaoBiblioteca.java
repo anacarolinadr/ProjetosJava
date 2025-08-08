@@ -1,7 +1,5 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade10;
 
-import ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade01.Mercadoria;
-
 public class ColecaoBiblioteca {
     public Livro [] colecao;
     public int contador;

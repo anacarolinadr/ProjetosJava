@@ -3,10 +3,24 @@ package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade12;
 public class Inventario {
     public Produto inventario [];
     public int contador;
+    public int tamanhoMaximo;
 
     public Inventario(int tamanhoMaximo) {
-        inventario = new Produto[tamanhoMaximo];
+        this.inventario = new Produto[tamanhoMaximo];
         contador = 0;
+        this.tamanhoMaximo = tamanhoMaximo;
+    }
+
+    public Inventario(Produto[] inventario, int tamanhoMaximo) {
+        this.tamanhoMaximo = tamanhoMaximo;
+        this.inventario = new Produto[tamanhoMaximo];
+        if (inventario != null) {
+            int limite = Math.min(inventario.length, tamanhoMaximo);
+            for (int i = 0; i < limite; i++) {
+                this.inventario[i] = inventario[i];
+                this.contador++;
+            }
+        }
     }
 
     public boolean adicionarProduto(Produto produto) {

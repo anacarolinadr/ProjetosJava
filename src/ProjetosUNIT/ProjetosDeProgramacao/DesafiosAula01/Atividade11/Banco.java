@@ -3,10 +3,24 @@ package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade11;
 public class Banco {
     public Conta [] contas;
     public int contador;
+    public int tamanhoMaximo;
 
     public Banco(int tamanhoMaximo) {
-        contas = new Conta[tamanhoMaximo];
+        this.contas = new Conta[tamanhoMaximo];
         contador = 0;
+        this.tamanhoMaximo = tamanhoMaximo;
+    }
+
+    public Banco(Conta[] contas, int tamanhoMaximo) {
+        this.tamanhoMaximo = tamanhoMaximo;
+        this.contas = new Conta[tamanhoMaximo];
+        if (contas != null) {
+            int limite = Math.min(contas.length, tamanhoMaximo);
+            for (int i = 0; i < limite; i++) {
+                this.contas[i] = contas[i];
+                this.contador++;
+            }
+        }
     }
 
     public boolean adicionarConta(Conta conta) {
