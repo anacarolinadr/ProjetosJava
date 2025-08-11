@@ -1,12 +1,28 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade13;
 
+import ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade12.Produto;
+
 public class Menu {
     public Item menu [];
     public int contador;
+    public int tamanhoMaximo;
 
     public Menu(int tamanhoMaximo) {
-        menu = new Item[tamanhoMaximo];
+        this.menu = new Item[tamanhoMaximo];
         contador = 0;
+        this.tamanhoMaximo = tamanhoMaximo;
+    }
+
+    public Menu(Item[] menu, int tamanhoMaximo) {
+        this.tamanhoMaximo = tamanhoMaximo;
+        this.menu = new Item[tamanhoMaximo];
+        if (menu != null) {
+            int limite = Math.min(menu.length, tamanhoMaximo);
+            for (int i = 0; i < limite; i++) {
+                this.menu[i] = menu[i];
+                this.contador++;
+            }
+        }
     }
 
     public boolean adicionarItem(Item item) {
