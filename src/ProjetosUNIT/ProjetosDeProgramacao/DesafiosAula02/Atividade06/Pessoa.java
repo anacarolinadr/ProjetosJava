@@ -1,10 +1,10 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula02.Atividade06;
 
 public class Pessoa {
-    public String nome;
-    public int idade;
-    public double altura;
-    public int peso;
+    private String nome;
+    private int idade;
+    private double altura;
+    private int peso;
 
     public Pessoa(String nome, int idade, double altura, int peso) {
         this.nome = nome;

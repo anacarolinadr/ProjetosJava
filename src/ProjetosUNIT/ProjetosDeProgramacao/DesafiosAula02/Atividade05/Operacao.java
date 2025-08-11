@@ -1,9 +1,9 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula02.Atividade05;
 
 public class Operacao {
-    public double numero1;
-    public double numero2;
-    public TipoOperacao tipoOperacao;
+    private double numero1;
+    private double numero2;
+    private TipoOperacao tipoOperacao;
 
     public Operacao(double numero1, double numero2, TipoOperacao tipoOperacao) {
         this.numero1 = numero1;

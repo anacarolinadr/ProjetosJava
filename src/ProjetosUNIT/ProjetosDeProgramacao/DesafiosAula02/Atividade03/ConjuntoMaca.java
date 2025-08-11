@@ -1,7 +1,7 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula02.Atividade03;
 
 public class ConjuntoMaca {
-    public double qtdMacas;
+    private double qtdMacas;
 
     public ConjuntoMaca(int qtdMacas) {
         this.qtdMacas = qtdMacas;

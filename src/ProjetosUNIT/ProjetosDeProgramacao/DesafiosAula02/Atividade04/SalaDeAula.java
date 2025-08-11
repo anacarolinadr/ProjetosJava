@@ -1,7 +1,7 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula02.Atividade04;
 
 public class SalaDeAula {
-    public Aluno alunos [];
+    private Aluno alunos [];
 
     public SalaDeAula(Aluno[] alunos) {
         this.alunos = alunos;

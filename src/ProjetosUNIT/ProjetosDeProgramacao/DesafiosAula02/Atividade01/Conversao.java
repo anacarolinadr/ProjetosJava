@@ -1,7 +1,7 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula02.Atividade01;
 
 public class Conversao {
-    public double qtdGaloes;
+    private double qtdGaloes;
 
     public Conversao(double qtdGaloes) {
         this.qtdGaloes = qtdGaloes;

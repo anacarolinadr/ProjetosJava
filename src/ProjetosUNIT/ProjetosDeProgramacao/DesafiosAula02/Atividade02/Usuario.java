@@ -1,8 +1,8 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula02.Atividade02;
 
 public class Usuario {
-    public String nome;
-    public int idade;
+    private String nome;
+    private int idade;
 
     public Usuario(String nome, int idade) {
         this.nome = nome;

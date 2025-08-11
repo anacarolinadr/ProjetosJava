@@ -1,8 +1,8 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula02.Atividade04;
 
 public class Aluno {
-    public String nome;
-    public int [] notas;
+    private String nome;
+    private int [] notas;
 
     public Aluno(String nome, int[] notas) {
         this.nome = nome;
