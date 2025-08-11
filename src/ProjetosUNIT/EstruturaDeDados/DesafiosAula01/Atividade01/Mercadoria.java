@@ -1,9 +1,9 @@
 package ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade01;
 
 public class Mercadoria {
-    public String nome;
-    public double valor;
-    public int id;
+    private String nome;
+    private double valor;
+    private int id;
 
     public Mercadoria(String nome, double valor, int id) {
         this.nome = nome;

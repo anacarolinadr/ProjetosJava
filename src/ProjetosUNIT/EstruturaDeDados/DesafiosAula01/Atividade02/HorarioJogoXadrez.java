@@ -1,8 +1,8 @@
 package ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade02;
 
 public class HorarioJogoXadrez {
-    public int horarioInicial;
-    public int horarioFinal;
+    private int horarioInicial;
+    private int horarioFinal;
 
     public HorarioJogoXadrez(int horarioInicial, int horarioFinal) {
         this.horarioInicial = horarioInicial;

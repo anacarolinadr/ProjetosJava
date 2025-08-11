@@ -1,9 +1,9 @@
 package ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade01;
 
 public class Estoque {
-    Mercadoria mercadorias [];
-    int qtdMaxima;
-    int contador = 0;
+    private Mercadoria mercadorias [];
+    private int qtdMaxima;
+    private int contador = 0;
 
     public Estoque(Mercadoria[] mercadorias, int qtdMaxima) {
         this.qtdMaxima = qtdMaxima;
