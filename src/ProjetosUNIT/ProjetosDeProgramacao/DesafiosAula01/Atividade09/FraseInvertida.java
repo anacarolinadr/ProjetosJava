@@ -1,7 +1,7 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade09;
 
 public class FraseInvertida {
-    public String frase;
+    private String frase;
 
     public FraseInvertida(String frase) {
         this.frase = frase;

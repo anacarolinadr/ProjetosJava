@@ -1,8 +1,8 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade08;
 
 public class Euclides {
-    public double num1;
-    public double num2;
+    private double num1;
+    private double num2;
 
     public Euclides(double num1, double num2) {
         this.num1 = num1;

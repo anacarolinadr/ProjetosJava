@@ -107,7 +107,7 @@
       <recent name="ProjetosUNIT.ProjetosDeProgramacao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula02.Atividade08.Main">
+  <component name="RunManager" selected="Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade01.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade11.Main" />
       <module name="ProjetosJava" />
@@ -121,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade01.Main" />
+    <configuration name="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade01.Main" />
       <module name="ProjetosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade01.*" />
+          <option name="PATTERN" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade01.Main" />
         <item itemvalue="Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula02.Atividade08.Main" />
         <item itemvalue="Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula02.Atividade07.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade10.Main" />
-        <item itemvalue="Application.ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade01.Main" />
       </list>
     </recent_temporary>
   </component>

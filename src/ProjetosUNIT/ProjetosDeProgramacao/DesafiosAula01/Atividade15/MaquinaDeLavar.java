@@ -1,7 +1,7 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade15;
 
 public class MaquinaDeLavar extends ProdutoEletronico{
-    public int periodoGarantia;
+    private int periodoGarantia;
 
     public MaquinaDeLavar(String nome, int ID, double valor, int periodoGarantia) {
         super(nome, ID, valor);

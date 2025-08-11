@@ -1,9 +1,9 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade13;
 
 public class Menu {
-    public Item menu [];
-    public int contador;
-    public int tamanhoMaximo;
+    private Item menu [];
+    private int contador;
+    private int tamanhoMaximo;
 
     public Menu(int tamanhoMaximo) {
         this.menu = new Item[tamanhoMaximo];

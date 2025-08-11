@@ -1,13 +1,13 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade03;
 
 public class ValorTotalIPI {
-    public double codigo1;
-    public double codigo2;
-    public double valorUnitario1;
-    public double valorUnitario2;
-    public double qtdPecas1;
-    public double qtdPecas2;
-    public double ipi;
+    private double codigo1;
+    private double codigo2;
+    private double valorUnitario1;
+    private double valorUnitario2;
+    private double qtdPecas1;
+    private double qtdPecas2;
+    private double ipi;
 
     public ValorTotalIPI(double valorUnitario1, double valorUnitario2, double qtdPecas1, double qtdPecas2, double ipi) {
         this.valorUnitario1 = valorUnitario1;

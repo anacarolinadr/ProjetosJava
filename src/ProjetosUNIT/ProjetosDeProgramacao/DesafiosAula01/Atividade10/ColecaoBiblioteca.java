@@ -1,9 +1,9 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade10;
 
 public class ColecaoBiblioteca {
-    public Livro [] colecao;
-    public int contador;
-    public int tamanhoMaximo;
+    private Livro [] colecao;
+    private int contador;
+    private int tamanhoMaximo;
 
     public ColecaoBiblioteca(int tamanhoMaximo) {
         this.colecao = new Livro[tamanhoMaximo];

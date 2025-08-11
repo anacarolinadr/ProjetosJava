@@ -3,8 +3,8 @@ package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade07;
 import java.util.Arrays;
 
 public class Anagrama {
-    public String palavra1;
-    public String palavra2;
+    private String palavra1;
+    private String palavra2;
 
     public Anagrama(String palavra1, String palavra2) {
         this.palavra1 = palavra1.toLowerCase();

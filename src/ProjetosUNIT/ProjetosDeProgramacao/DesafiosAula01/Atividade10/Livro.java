@@ -1,9 +1,9 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade10;
 
 public class Livro {
-    public String titulo;
-    public String autor;
-    public int ISBN;
+    private String titulo;
+    private String autor;
+    private int ISBN;
 
     public Livro(String titulo, String autor, int ISBN) {
         this.titulo = titulo;

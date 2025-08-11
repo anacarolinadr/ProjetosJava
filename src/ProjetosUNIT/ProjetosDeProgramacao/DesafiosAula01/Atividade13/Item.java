@@ -1,9 +1,9 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade13;
 
 public class Item {
-    public String nome;
-    public double valor;
-    public double classificacao;
+    private String nome;
+    private double valor;
+    private double classificacao;
 
     public Item(String nome, double valor, double classificacao) {
         this.nome = nome;

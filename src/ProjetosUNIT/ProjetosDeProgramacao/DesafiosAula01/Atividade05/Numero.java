@@ -1,7 +1,7 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade05;
 
 public class Numero {
-    public int numero;
+    private int numero;
 
     public Numero(int numero) {
         this.numero = numero;

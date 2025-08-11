@@ -1,9 +1,9 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade11;
 
 public class Banco {
-    public Conta [] contas;
-    public int contador;
-    public int tamanhoMaximo;
+    private Conta [] contas;
+    private int contador;
+    private int tamanhoMaximo;
 
     public Banco(int tamanhoMaximo) {
         this.contas = new Conta[tamanhoMaximo];

@@ -1,9 +1,9 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade01;
 
 public class ContagemDias {
-    public int anos;
-    public int meses;
-    public int dias;
+    private int anos;
+    private int meses;
+    private int dias;
 
     public ContagemDias(int anos, int meses, int dias) {
         this.anos = anos;

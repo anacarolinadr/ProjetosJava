@@ -1,7 +1,7 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade04;
 
 public class Salario {
-    public double salario;
+    private double salario;
 
     public Salario(double salario) {
         this.salario = salario;

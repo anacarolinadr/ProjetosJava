@@ -1,8 +1,8 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade12;
 
 public class Produto {
-    public String nome;
-    public double valor;
+    private String nome;
+    private double valor;
 
     public Produto(String nome, double valor) {
         this.nome = nome;

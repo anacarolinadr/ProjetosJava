@@ -1,9 +1,9 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade12;
 
 public class Inventario {
-    public Produto inventario [];
-    public int contador;
-    public int tamanhoMaximo;
+    private Produto inventario [];
+    private int contador;
+    private int tamanhoMaximo;
 
     public Inventario(int tamanhoMaximo) {
         this.inventario = new Produto[tamanhoMaximo];
