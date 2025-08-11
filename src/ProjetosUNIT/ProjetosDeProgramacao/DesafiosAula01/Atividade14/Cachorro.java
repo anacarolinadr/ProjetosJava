@@ -1,6 +1,6 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade14;
 
-public class Cachorro extends  AnimalEstimacao{
+public class Cachorro extends AnimalEstimacao{
     private String brinquedoFavorito;
     private int conversaoHumana = 7;
 

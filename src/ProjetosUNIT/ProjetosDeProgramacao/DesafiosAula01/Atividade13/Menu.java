@@ -1,7 +1,5 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade13;
 
-import ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade12.Produto;
-
 public class Menu {
     public Item menu [];
     public int contador;
