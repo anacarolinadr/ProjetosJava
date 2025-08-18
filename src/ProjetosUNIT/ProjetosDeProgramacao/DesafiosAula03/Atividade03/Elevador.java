@@ -20,10 +20,11 @@ public class Elevador {
         }
         if (pessoasPresentes > capacidade) {
             int qtdPessoasSair = pessoasPresentes - capacidade;
-            System.out.println("Capacidade atingida, " + qtdPessoasSair + " devem sair");
+            System.out.println("Capacidade atingida, " + qtdPessoasSair + " devem sair para o elevador sair");
             return andarAtual;
         }
         System.out.println("Se locomoveu para o andar " + andarDesejado);
+        this.pessoasPresentes = pessoasPresentes;
         return this.andarAtual = andarDesejado;
     }
 

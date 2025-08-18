@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2ae7c17-40dd-4f77-8c81-c6625427c399" name="Changes" comment="Correção Nome do Package">
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/EstruturaDeDados/DesafiosAula02/Atividade01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/EstruturaDeDados/DesafiosAula02/Atividade02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/EstruturaDeDados/DesafiosAula02/Atividade03/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula03/Atividade03/Elevador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula03/Atividade03/Elevador.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,60 +52,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DesafioCarro.Main.executor": "Run",
-    "Application.DesafioGestaoBiblioteca.Main.executor": "Run",
-    "Application.DesafioLivro.Main.executor": "Run",
-    "Application.DesafioSistemaEntrega.Main.executor": "Run",
-    "Application.DesafioSistemaRPG.Main.executor": "Run",
-    "Application.GestaoEscolar.Main.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.ProjetosUNIT.DesafiosAula01.Atividade01.Main.executor": "Run",
-    "Application.ProjetosUNIT.DesafiosAula01.Atividade03.Main.executor": "Run",
-    "Application.ProjetosUNIT.DesafiosAula01.Atividade04.Main.executor": "Run",
-    "Application.ProjetosUNIT.DesafiosAula01.Atividade05.Main.executor": "Run",
-    "Application.ProjetosUNIT.DesafiosAula01.Atividade08.Main.executor": "Run",
-    "Application.ProjetosUNIT.DesafiosAula01.Atividade09.Main.executor": "Run",
-    "Application.ProjetosUNIT.DesafiosAula01.Atividade10.Main.executor": "Run",
-    "Application.ProjetosUNIT.DesafiosAula01.Atividade11.Main.executor": "Run",
-    "Application.ProjetosUNIT.DesafiosAula01.Atividade12.Main.executor": "Run",
-    "Application.ProjetosUNIT.DesafiosAula01.Atividade14.Main.executor": "Run",
-    "Application.ProjetosUNIT.DesafiosAula01.Atividade15.Main.executor": "Run",
-    "Application.ProjetosUNIT.DesafiosAula02.Atividade01.Main.executor": "Run",
-    "Application.ProjetosUNIT.DesafiosAula02.Atividade02.Main.executor": "Run",
-    "Application.ProjetosUNIT.DesafiosAula02.Atividade04.Main.executor": "Run",
-    "Application.ProjetosUNIT.DesafiosAula02.Atividade06.Main.executor": "Run",
-    "Application.ProjetosUNIT.DesafiosAula2807.Atividade01.Main.executor": "Run",
-    "Application.ProjetosUNIT.DesafiosAula2807.Atividade03.Main.executor": "Run",
-    "Application.ProjetosUNIT.DesafiosAula2807.Atividade05.Main.executor": "Run",
-    "Application.ProjetosUNIT.DesafiosAula2807.Atividade06.Main.executor": "Run",
-    "Application.ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade01.Main.executor": "Run",
-    "Application.ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade02.Main.executor": "Run",
-    "Application.ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade03.Main.executor": "Run",
-    "Application.ProjetosUNIT.EstruturaDeDados.DesafiosAula02.Atividade01.Main.executor": "Run",
-    "Application.ProjetosUNIT.EstruturaDeDados.DesafiosAula02.Atividade02.Main.executor": "Run",
-    "Application.ProjetosUNIT.EstruturaDeDados.DesafiosAula02.Atividade03.Main.executor": "Run",
-    "Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade01.Main.executor": "Run",
-    "Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade10.Main.executor": "Run",
-    "Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula02.Atividade07.Main.executor": "Run",
-    "Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula02.Atividade08.Main.executor": "Run",
-    "Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula03.Atividade01.Main.executor": "Run",
-    "Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula03.Atividade02.Main.executor": "Run",
-    "Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula03.Atividade04.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/passo/Downloads/ResolucaoExerciciosJava",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DesafioCarro.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DesafioGestaoBiblioteca.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DesafioLivro.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DesafioSistemaEntrega.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DesafioSistemaRPG.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GestaoEscolar.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.DesafiosAula01.Atividade01.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.DesafiosAula01.Atividade03.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.DesafiosAula01.Atividade04.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.DesafiosAula01.Atividade05.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.DesafiosAula01.Atividade08.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.DesafiosAula01.Atividade09.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.DesafiosAula01.Atividade10.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.DesafiosAula01.Atividade11.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.DesafiosAula01.Atividade12.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.DesafiosAula01.Atividade14.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.DesafiosAula01.Atividade15.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.DesafiosAula02.Atividade01.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.DesafiosAula02.Atividade02.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.DesafiosAula02.Atividade04.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.DesafiosAula02.Atividade06.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.DesafiosAula2807.Atividade01.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.DesafiosAula2807.Atividade03.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.DesafiosAula2807.Atividade05.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.DesafiosAula2807.Atividade06.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade01.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade02.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade03.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.EstruturaDeDados.DesafiosAula02.Atividade01.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.EstruturaDeDados.DesafiosAula02.Atividade02.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.EstruturaDeDados.DesafiosAula02.Atividade03.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade01.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula01.Atividade10.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula02.Atividade07.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula02.Atividade08.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula03.Atividade01.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula03.Atividade02.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula03.Atividade04.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/passo/Downloads/ResolucaoExerciciosJava&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\passo\OneDrive\Documentos\Programação - Cursos e exercícios\ProjetosJava" />
@@ -117,7 +115,20 @@
       <recent name="ProjetosUNIT.ProjetosDeProgramacao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProjetosUNIT.EstruturaDeDados.DesafiosAula02.Atividade03.Main">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula03.Atividade03.Main" />
+      <module name="ProjetosJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula03.Atividade03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade03.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade03.Main" />
       <module name="ProjetosJava" />
@@ -170,26 +181,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula03.Atividade04.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula03.Atividade04.Main" />
-      <module name="ProjetosJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula03.Atividade04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ProjetosUNIT.EstruturaDeDados.DesafiosAula02.Atividade03.Main" />
         <item itemvalue="Application.ProjetosUNIT.EstruturaDeDados.DesafiosAula02.Atividade02.Main" />
         <item itemvalue="Application.ProjetosUNIT.EstruturaDeDados.DesafiosAula02.Atividade01.Main" />
         <item itemvalue="Application.ProjetosUNIT.EstruturaDeDados.DesafiosAula01.Atividade03.Main" />
-        <item itemvalue="Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula03.Atividade04.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -247,6 +245,10 @@
       <workItem from="1755116667638" duration="4000" />
       <workItem from="1755123922056" duration="233000" />
       <workItem from="1755126704583" duration="1789000" />
+      <workItem from="1755128767989" duration="172000" />
+      <workItem from="1755214093778" duration="3000" />
+      <workItem from="1755253604858" duration="2000" />
+      <workItem from="1755555703771" duration="387000" />
     </task>
     <task id="LOCAL-00001" summary="Desafio Livro - Java POO Iniciante">
       <option name="closed" value="true" />
