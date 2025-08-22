@@ -5,25 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2ae7c17-40dd-4f77-8c81-c6625427c399" name="Changes" comment="Correção Nome do Package">
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Atividade01/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Atividade01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Atividade02/Empresa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Atividade02/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Atividade02/MainEmpresa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Atividade03/Hospede.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Atividade03/Hotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Atividade03/MainHotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Atividade03/Quarto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Atividade03/Reserva.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Atividade03/Tipo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Atividade04/Aplicativo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Atividade04/Corrida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Atividade04/MainTransporte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Atividade04/Motorista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Atividade04/Passageiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Atividade04/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Atividade04/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Atividade04/TipoPagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Desafio01/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Desafio01/Avaliacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Desafio01/Certificado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Desafio01/Conteudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Desafio01/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Desafio01/FormaPagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Desafio01/Instrutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Desafio01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Desafio01/NivelDificuldade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Desafio01/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Desafio01/Plataforma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Desafio01/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Desafio01/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Desafio01/TransacaoFinanceira.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,6 +110,7 @@
     &quot;Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula03.Atividade02.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula03.Atividade04.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula04.br.com.unit.Atividade01.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula04.br.com.unit.Desafio01.Main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -137,20 +133,7 @@
       <recent name="ProjetosUNIT.ProjetosDeProgramacao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainTransporte">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula03.Atividade03.Main" />
-      <module name="ProjetosJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula03.Atividade03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula04.br.com.unit.Desafio01.Main">
     <configuration name="MainEmpresa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula04.br.com.unit.Atividade02.MainEmpresa" />
       <module name="ProjetosJava" />
@@ -182,7 +165,7 @@
       <module name="ProjetosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula04.br.com.unit.Atividade04.*" />
+          <option name="PATTERN" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula04.br.com.unit.Desafio01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,13 +186,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula04.br.com.unit.Desafio01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula04.br.com.unit.Desafio01.Main" />
+      <module name="ProjetosJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula04.br.com.unit.Desafio01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula04.br.com.unit.Desafio01.Main" />
         <item itemvalue="Application.MainTransporte" />
         <item itemvalue="Application.MainEmpresa" />
         <item itemvalue="Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula04.br.com.unit.Atividade01.Main" />
         <item itemvalue="Application.MainHotel" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -275,6 +271,12 @@
       <workItem from="1755597721294" duration="4531000" />
       <workItem from="1755628121553" duration="2834000" />
       <workItem from="1755644423229" duration="4000" />
+      <workItem from="1755702733791" duration="368000" />
+      <workItem from="1755729161677" duration="608000" />
+      <workItem from="1755770720393" duration="2948000" />
+      <workItem from="1755809624215" duration="1512000" />
+      <workItem from="1755856891572" duration="2378000" />
+      <workItem from="1755859636175" duration="674000" />
     </task>
     <task id="LOCAL-00001" summary="Desafio Livro - Java POO Iniciante">
       <option name="closed" value="true" />
