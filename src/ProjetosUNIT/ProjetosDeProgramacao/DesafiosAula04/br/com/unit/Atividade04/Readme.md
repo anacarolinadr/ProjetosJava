@@ -14,7 +14,7 @@ gastosTotais. Adicione os seguintes métodos:
 ○ registrarCorrida (double valor) → soma ganhos e incrementa
 corridas realizadas
 
-● Crie a classe Corrida com os atributos motorista, passageiro,
+● Crie a classe co com os atributos motorista, passageiro,
 distanciaKm, valor, formaPagamento, status (em andamento,
 concluída, cancelada), avaliacaoMotorista e avaliacaoPassageiro.
 Adicione os seguintes métodos:
@@ -28,7 +28,7 @@ avaliações e ganhos/gastos
 
 ● Crie a classe Aplicativo com os atributos nome,
 ArrayList<Motorista> motoristas, ArrayList<Passageiro> passageiros,
-ArrayList<Corrida> corridas. Adicione os seguintes métodos:
+ArrayList<co> corridas. Adicione os seguintes métodos:
 ○ cadastrarMotorista (Motorista m)
 ○ cadastrarPassageiro (Passageiro p)
 ○ chamarCorrida(Passageiro p, double distanciaKm, String
@@ -39,7 +39,7 @@ avaliação
 
 ● Crie a classe Aplicativo com os atributos nome,
 ArrayList<Motorista> motoristas, ArrayList<Passageiro> passageiros,
-ArrayList<Corrida> corridas. Adicione os seguintes métodos:
+ArrayList<co> corridas. Adicione os seguintes métodos:
 ○ passageirosFieis() → lista passageiros com mais de 10 corridas
 ○ faturamentoTotal() → soma valores das corridas concluídas
 ○ relatorioFormasDePagamento() → mostra quantas corridas
