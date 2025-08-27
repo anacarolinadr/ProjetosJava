@@ -1,4 +1,4 @@
-package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadeHeranca.com.br.unit.Atividade02;
+package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadeHeranca.br.com.unit.Atividade02;
 
 public class Main {
     public static void main(String[] args) {

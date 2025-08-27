@@ -5,16 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2ae7c17-40dd-4f77-8c81-c6625427c399" name="Changes" comment="Correção Nome do Package">
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadeHeranca/com/br/unit/Atividade01/Fisica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadeHeranca/com/br/unit/Atividade01/Juridica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadeHeranca/com/br/unit/Atividade01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadeHeranca/com/br/unit/Atividade01/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadeHeranca/com/br/unit/Atividade02/Cd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadeHeranca/com/br/unit/Atividade02/Dvd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadeHeranca/com/br/unit/Atividade02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadeHeranca/com/br/unit/Atividade02/Midia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadePolimorfismo/br/com/unit/Atividade01/Bicicleta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadePolimorfismo/br/com/unit/Atividade01/Ciclismo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadePolimorfismo/br/com/unit/Atividade01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadePolimorfismo/br/com/unit/Atividade01/MountainBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadePolimorfismo/br/com/unit/Atividade02/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadePolimorfismo/br/com/unit/Atividade02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadePolimorfismo/br/com/unit/Atividade02/Veiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadePolimorfismo/br/com/unit/Desafio/Carta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadePolimorfismo/br/com/unit/Desafio/Documento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadePolimorfismo/br/com/unit/Desafio/Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadePolimorfismo/br/com/unit/Desafio/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadePolimorfismo/br/com/unit/Desafio/Telegrama.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Atividade04/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula04/br/com/unit/Atividade04/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadeHeranca/com/br/unit/Atividade01/Fisica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadeHeranca/br/com/unit/Atividade01/Fisica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadeHeranca/com/br/unit/Atividade01/Juridica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadeHeranca/br/com/unit/Atividade01/Juridica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadeHeranca/com/br/unit/Atividade01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadeHeranca/br/com/unit/Atividade01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadeHeranca/com/br/unit/Atividade01/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadeHeranca/br/com/unit/Atividade01/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadeHeranca/com/br/unit/Atividade02/Cd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadeHeranca/br/com/unit/Atividade02/Cd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadeHeranca/com/br/unit/Atividade02/Dvd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadeHeranca/br/com/unit/Atividade02/Dvd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadeHeranca/com/br/unit/Atividade02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadeHeranca/br/com/unit/Atividade02/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadeHeranca/com/br/unit/Atividade02/Midia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetosUNIT/ProjetosDeProgramacao/DesafiosAula05/AtividadeHeranca/br/com/unit/Atividade02/Midia.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +120,9 @@
     "Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula04.br.com.unit.Desafio01.Main.executor": "Run",
     "Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadeHeranca.com.br.unit.Atividade01.Main.executor": "Run",
     "Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadeHeranca.com.br.unit.Atividade02.Main.executor": "Run",
+    "Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadePolimorfismo.br.com.unit.Atividade01.Main.executor": "Run",
+    "Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadePolimorfismo.br.com.unit.Atividade02.Main.executor": "Run",
+    "Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadePolimorfismo.br.com.unit.Desafio.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -131,13 +145,13 @@
       <recent name="ProjetosUNIT.ProjetosDeProgramacao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadeHeranca.com.br.unit.Atividade02.Main">
-    <configuration name="Main$ConversaoDeUnidadesDeArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.com.br.unit.Atividade01.Main$ConversaoDeUnidadesDeArea" />
+  <component name="RunManager" selected="Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadePolimorfismo.br.com.unit.Desafio.Main">
+    <configuration name="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadeHeranca.br.com.unit.Atividade01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadeHeranca.br.com.unit.Atividade01.Main" />
       <module name="ProjetosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.com.br.unit.Atividade01.*" />
+          <option name="PATTERN" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadeHeranca.br.com.unit.Atividade01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.com.br.unit.Atividade02.Main" />
+    <configuration name="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadeHeranca.br.com.unit.Atividade02.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadeHeranca.br.com.unit.Atividade02.Main" />
       <module name="ProjetosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.com.br.unit.Atividade02.*" />
+          <option name="PATTERN" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadeHeranca.br.com.unit.Atividade02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula04.br.com.unit.Desafio01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula04.br.com.unit.Desafio01.Main" />
+    <configuration name="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadePolimorfismo.br.com.unit.Atividade01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadePolimorfismo.br.com.unit.Atividade01.Main" />
       <module name="ProjetosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula04.br.com.unit.Desafio01.*" />
+          <option name="PATTERN" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadePolimorfismo.br.com.unit.Atividade01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadeHeranca.com.br.unit.Atividade01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadeHeranca.com.br.unit.Atividade01.Main" />
+    <configuration name="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadePolimorfismo.br.com.unit.Atividade02.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadePolimorfismo.br.com.unit.Atividade02.Main" />
       <module name="ProjetosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadeHeranca.com.br.unit.Atividade01.*" />
+          <option name="PATTERN" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadePolimorfismo.br.com.unit.Atividade02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadeHeranca.com.br.unit.Atividade02.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadeHeranca.com.br.unit.Atividade02.Main" />
+    <configuration name="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadePolimorfismo.br.com.unit.Desafio.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadePolimorfismo.br.com.unit.Desafio.Main" />
       <module name="ProjetosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadeHeranca.com.br.unit.Atividade02.*" />
+          <option name="PATTERN" value="ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadePolimorfismo.br.com.unit.Desafio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,11 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadeHeranca.com.br.unit.Atividade02.Main" />
-        <item itemvalue="Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadeHeranca.com.br.unit.Atividade01.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main$ConversaoDeUnidadesDeArea" />
-        <item itemvalue="Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula04.br.com.unit.Desafio01.Main" />
+        <item itemvalue="Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadePolimorfismo.br.com.unit.Desafio.Main" />
+        <item itemvalue="Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadePolimorfismo.br.com.unit.Atividade02.Main" />
+        <item itemvalue="Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadePolimorfismo.br.com.unit.Atividade01.Main" />
+        <item itemvalue="Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadeHeranca.br.com.unit.Atividade02.Main" />
+        <item itemvalue="Application.ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadeHeranca.br.com.unit.Atividade01.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +292,7 @@
       <workItem from="1755860732570" duration="32000" />
       <workItem from="1756162975354" duration="3956000" />
       <workItem from="1756167150501" duration="19000" />
-      <workItem from="1756322962002" duration="2187000" />
+      <workItem from="1756322962002" duration="5305000" />
     </task>
     <task id="LOCAL-00001" summary="Desafio Livro - Java POO Iniciante">
       <option name="closed" value="true" />
