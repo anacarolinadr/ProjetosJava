@@ -1,10 +1,10 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula04.br.com.unit.Desafio01;
 
 public class Pessoa {
-    private String nome;
-    private String cpf;
-    private String matricula;
-    private String dataNascimento;
+    protected String nome;
+    protected String cpf;
+    protected String matricula;
+    protected String dataNascimento;
 
     public Pessoa(String nome, String cpf, String dataNascimento) {
         this.nome = nome;

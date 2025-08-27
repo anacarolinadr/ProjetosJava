@@ -1,9 +1,9 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadeHeranca.br.com.unit.Atividade02;
 
 public class Midia {
-    private int codigo;
-    private double preco;
-    private String nome;
+    protected int codigo;
+    protected double preco;
+    protected String nome;
 
     public Midia() {}
 

@@ -14,7 +14,7 @@ public class Aluno extends Pessoa{
     public void gerenciarAvaliacao(Avaliacao avaliacao) {
         if (cursos.contains(avaliacao.getCurso())) {
             avaliacao.getCurso().receberAvaliacao(avaliacao);
-            System.out.println("Avaliação realizada por " + this.getNome() + " para o curso " +
+            System.out.println("Avaliação realizada por " + this.nome + " para o curso " +
                     avaliacao.getCurso().getTitulo());
         } else {
             System.out.println("Aluno não está matriculado neste curso para avaliar");
@@ -25,7 +25,7 @@ public class Aluno extends Pessoa{
         if (curso.getStatus() == Status.ATIVO && !cursos.contains(curso)) {
             cursos.add(curso);
             curso.getAlunos().add(this);
-            System.out.println("Aluno: " + this.getNome() + " matriculado no curso: " + curso.getTitulo());
+            System.out.println("Aluno: " + this.nome + " matriculado no curso: " + curso.getTitulo());
             return true;
         }
         System.out.println("Não foi possível matricular no curso " + curso.getTitulo());

@@ -1,10 +1,10 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula02.Atividade07;
 
 public class Funcionario {
-    private String nome;
-    private String cpf;
-    private String dataNascimento;
-    private int matricula;
+    protected String nome;
+    protected String cpf;
+    protected String dataNascimento;
+    protected int matricula;
 
     public Funcionario(String nome, String cpf, String dataNascimento, int matricula) {
         this.nome = nome;

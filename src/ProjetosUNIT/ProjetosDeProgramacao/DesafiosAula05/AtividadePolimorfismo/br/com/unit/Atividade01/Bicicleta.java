@@ -1,8 +1,8 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadePolimorfismo.br.com.unit.Atividade01;
 
 public class Bicicleta {
-    private int marcha;
-    private double velocidade;
+    protected int marcha;
+    protected double velocidade;
 
     public Bicicleta() {}
 

@@ -16,7 +16,7 @@ public class Instrutor extends Pessoa{
     public void gerenciarAvaliacao(Avaliacao avaliacao) {
         if (cursos.contains(avaliacao.getCurso())) {
             avaliacoesRecebidas.add(avaliacao);
-            System.out.println("Instrutor " + this.getNome() + " recebeu avaliação do curso " +
+            System.out.println("Instrutor " + this.nome + " recebeu avaliação do curso " +
                     avaliacao.getCurso().getTitulo());
         }
     }

@@ -1,9 +1,9 @@
 package ProjetosUNIT.ProjetosDeProgramacao.DesafiosAula05.AtividadeHeranca.br.com.unit.Atividade01;
 
 public class Pessoa {
-    private String nome;
-    private String endereco;
-    private String telefone;
+    protected String nome;
+    protected String endereco;
+    protected String telefone;
 
     public Pessoa(String nome, String endereco, String telefone) {
         this.nome = nome;
